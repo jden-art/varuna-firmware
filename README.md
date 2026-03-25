@@ -1,4 +1,4 @@
-Then upload the matching .bin file. When you want to update, change the version number and upload the new .bin. The C3 picks it up automatically within 6 hours (or immediately via USB OTACHECK command).
+TThe matching .bin file. When you want to update, change the version number and upload the new .bin. The C3 picks it up automatically within 6 hours (or immediately via USB OTACHECK command).
 
 
 ---
